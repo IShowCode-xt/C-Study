@@ -1,0 +1,12 @@
+﻿  test.c
+D:\cproject\bit_c_execise_4\test.c(45,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cproject\bit_c_execise_4\test.c(45,10): message : 请考虑在格式字符串中使用“%zd”
+D:\cproject\bit_c_execise_4\test.c(46,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cproject\bit_c_execise_4\test.c(46,10): message : 请考虑在格式字符串中使用“%zd”
+D:\cproject\bit_c_execise_4\test.c(47,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cproject\bit_c_execise_4\test.c(47,10): message : 请考虑在格式字符串中使用“%zd”
+D:\cproject\bit_c_execise_4\test.c(48,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cproject\bit_c_execise_4\test.c(48,10): message : 请考虑在格式字符串中使用“%zd”
+D:\cproject\bit_c_execise_4\test.c(49,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\cproject\bit_c_execise_4\test.c(49,10): message : 请考虑在格式字符串中使用“%zd”
+  bit_c_execise_4.vcxproj -> D:\cproject\bit_c_execise_4\x64\Debug\bit_c_execise_4.exe
